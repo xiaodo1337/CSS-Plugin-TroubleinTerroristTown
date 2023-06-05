@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/slient_awp/gucci_new"
+	"$bumpmap" "models\weapons\v_models\slient_awp\gucci_norm"
+	"$normalmapalphaenvmapmask" 1
+
+}

@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "ttt/icon/body_call"
+	"$receiveflashlight"	0
+	"$singlepassflashlight"	0
+	"$alphatest" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$ignorez" 1
+}

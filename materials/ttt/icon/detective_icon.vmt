@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$receiveflashlight"	0
+	"$singlepassflashlight"	0
+	"$basetexture" "ttt/icon/detective_icon"
+	"$alphatest" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$ignorez" 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\jb_c4\screen_active"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\jb_c4\screen_ref"
+}

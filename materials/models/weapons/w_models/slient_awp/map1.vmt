@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\weapons\w_models\slient_awp\map1"
+        "$envmap" "env_cubemap"
+        "$envmapmask" "models\weapons\w_models\slient_awp\map1_ref"
+}

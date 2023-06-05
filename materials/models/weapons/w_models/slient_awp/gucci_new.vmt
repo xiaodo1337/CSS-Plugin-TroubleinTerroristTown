@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/w_models/slient_awp/gucci_new"
+	"$envmap" "env_cubemap"
+        "$envmapmask" "models\weapons\w_models\hav0c.awp\gucci_norm.vtf"
+
+}

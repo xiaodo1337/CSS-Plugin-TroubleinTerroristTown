@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\Dragonlord\Dragon_blade"
+	"$bumpmap" "models\weapons\v_models\Dragonlord\Dragon_ref"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

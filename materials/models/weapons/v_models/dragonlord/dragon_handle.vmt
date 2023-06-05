@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\Dragonlord\Dragon_handle"
+	"$bumpmap" "models\weapons\v_models\Dragonlord\handle_phong"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 8 6]"
+}
